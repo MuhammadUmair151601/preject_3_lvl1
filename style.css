@@ -44,3 +44,31 @@ html, body{
     justify-content: space-between;
     padding: 20px 20px;
 }
+#pics{
+    height: 100%;
+    width: 100%;
+    padding: 20px 20px;
+    display: flex;
+    gap: 40px;
+    margin-top: 20%;
+    align-items: center;
+    justify-content: center;
+}
+#pic1{
+    height: 90%;
+    width: 40%;
+    background-color: white;
+    padding: 20px 20px;
+    background-image: url(https://cdn.pixabay.com/photo/2025/04/28/19/59/female-model-9565629_1280.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+#pic2{
+    height: 90%;
+    width: 40%;
+    background-color: white;
+    padding: 20px 20px;
+    background-image: url(https://cdn.pixabay.com/photo/2022/03/04/05/59/fashion-model-7046623_1280.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
